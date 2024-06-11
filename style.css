@@ -1,0 +1,83 @@
+body {
+    background-color: black;
+}
+
+.text_s {
+    font-family: Arial;
+    text-align: justify;
+    color: white;
+    font-size: 125%;
+}
+
+.text_l {
+    text-indent: 5% each-line;
+    font-family: Arial;
+    text-align: justify;
+    color: white;
+    font-size: 250%;
+    padding-inline-start: 2%;
+    -webkit-text-stroke: 1px #000000;
+}
+
+.ref {
+    font-family: Arial;
+    text-align: justify;
+    color: white;
+    font-size: 75%;
+}
+
+.title {
+    font-family: Arial;
+    text-align: center;
+    color: white;
+    font-size: 600%;
+    -webkit-text-stroke: 1px #000000;
+}
+
+.link {
+    font-family: Arial;
+    text-align: center;
+    color: white;
+    font-size: 400%;
+    -webkit-text-stroke: 1px #000000;
+}
+
+.imgtxt {
+    font-family: Arial;
+    color: white;
+    font-size: 200%;
+    -webkit-text-stroke: 1px #000000;
+    position: absolute;
+    bottom: 90%;
+}
+
+.main {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.source {
+    margin-top: 100%;
+    background-color: #0000003b;
+
+}
+
+.linksursa {
+    font-family: Arial;
+    text-align: justify;
+    color: white;
+    font-size: 100%;
+}
+
+.txtimg {
+    position: absolute;
+    bottom: 8px;
+    right: 50%;
+    left:50%;
+}
+
+.imgc {
+    position: relative;
+    text-align: center;
+    color: white;
+}
